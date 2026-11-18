@@ -1,5 +1,7 @@
 # Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
+Keshanramasamy N
+212225060123
 
 ## AIM
 
@@ -67,6 +69,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="1079" height="1526" alt="WhatsApp Image 2026-11-18 at 10 12 30 AM" src="https://github.com/user-attachments/assets/bbaa0360-f607-47b5-b480-897eaeaee8ce" />
+
 
 ## 2. SUBTRACTION
 
@@ -119,6 +123,8 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="1079" height="1495" alt="WhatsApp Image 2026-11-18 at 10 11 20 AM" src="https://github.com/user-attachments/assets/a52abe6f-0c52-4477-8eb6-63ddd84c14ba" />
+
 
 ## 3. MULTIPLICATION
 
@@ -167,6 +173,8 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="1079" height="988" alt="WhatsApp Image 2026-11-18 at 10 09 46 AM" src="https://github.com/user-attachments/assets/18fba6c6-7828-4871-a43e-9b3518b51729" />
+
 
 ## 4. DIVISION
 
@@ -211,6 +219,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="1079" height="939" alt="WhatsApp Image 2026-11-18 at 10 08 11 AM" src="https://github.com/user-attachments/assets/903c7e39-0d6a-4f42-8d35-b199bfdbbc6f" />
+
 
 
 
